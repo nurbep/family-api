@@ -1,0 +1,4 @@
+com\members\api\data\repository\MemberRepository.class
+com\members\api\data\config\JpaConfig.class
+com\members\api\data\entity\BaseEntity.class
+com\members\api\data\entity\Member.class
